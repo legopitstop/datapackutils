@@ -7,7 +7,7 @@ required_modules = []
 
 setuptools.setup(
     name='datapackutils',
-    version='1.0.0',
+    version='0.0.1',
     author='Legopitstop',
     description='Utility functions for creating Minecraft datapacks.',
     long_description=long_description,
@@ -19,7 +19,7 @@ setuptools.setup(
     keywords=['minecraft', 'datapack', 'util'],
     author_email='officiallegopitstop@gmail.com',
     classifiers=[
-        'Development Status :: 5 - Production/Stable', # Chose either "3 - Alpha", "4 - Beta" or "5 - Production/Stable" as the current state of your package
+        'Development Status :: 4 - Beta', # Chose either "3 - Alpha", "4 - Beta" or "5 - Production/Stable" as the current state of your package
         'Intended Audience :: Developers',
         'Topic :: Software Development :: Build Tools',
         'License :: OSI Approved :: MIT License',
